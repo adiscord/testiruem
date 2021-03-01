@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;;
+  padding: 25px;
+  color: #000000;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.italic {
+  font-style: italic;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.publication_date {
+  margin-top: 30px;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 25px;
+  padding-left: 15px;
+  margin-bottom: 5px;
+}
+
+ul {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 25px;
+  padding-left: 45px;
+}
+
+a {
+  word-wrap: break-word;
+}
